@@ -1,3 +1,15 @@
+# How to Run/Test
+To run
+```
+dotnet run
+```
+
+To run the unit test
+```
+dotnet test
+```
+
+
 # Carpark-Info
 A take-home coding assignment for backend developer interview. 
 
